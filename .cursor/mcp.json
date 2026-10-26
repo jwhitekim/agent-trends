@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "agent-trends": {
+      "command": "node",
+      "args": [
+        "scripts/run.mjs",
+        "mcp"
+      ]
+    }
+  }
+}
