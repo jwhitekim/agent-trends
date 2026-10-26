@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(node --version)",
+      "Bash(node src/cli.ts)",
+      "Bash(node src/cli.ts *)",
+      "Bash(npm start *)",
+      "Read(./output/**)",
+      "Edit(./output/**)",
+      "Edit(./reports/**)",
+      "mcp__agent-trends__*"
+    ],
+    "ask": [
+      "WebSearch",
+      "Bash(winget install *)",
+      "Bash(brew install *)",
+      "Bash(nvm install *)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Edit(./.env)",
+      "Edit(./.env.*)",
+      "Bash(grep * .env*)",
+      "Bash(curl *)",
+      "Bash(wget *)",
+      "WebFetch"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "agent-trends"
+  ],
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node scripts/check-node.cjs"
+          }
+        ]
+      }
+    ]
+  }
+}
