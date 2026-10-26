@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "agent-trends": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "scripts/run.mjs",
+        "mcp"
+      ],
+      "cwd": "${workspaceFolder}"
+    }
+  }
+}
