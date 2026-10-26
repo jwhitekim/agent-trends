@@ -1,0 +1,358 @@
+{
+  "companyDictionary": "612a9671b5fc91fd692ffb652b425efcc8698b645c9c552e6922220e26cb082c",
+  "input": "output/뉴스원본_20261026_사전확장.json",
+  "added": 33,
+  "evidence": [
+    {
+      "company": "제논",
+      "aliases": [
+        "제논"
+      ],
+      "titleMatches": 3,
+      "confirmed": 0,
+      "representativeTitle": "제논, AI 보안 '젠가드' 출시",
+      "representativeLink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876140"
+    },
+    {
+      "company": "한글과컴퓨터",
+      "aliases": [
+        "한글과컴퓨터",
+        "한컴"
+      ],
+      "titleMatches": 36,
+      "confirmed": 8,
+      "representativeTitle": "[더벨][i-point] 한컴, 미국 NDR서 AI워크포스 플랫폼 '노마디안' 호평",
+      "representativeLink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610261033506640108565"
+    },
+    {
+      "company": "허드슨에이아이",
+      "aliases": [
+        "허드슨에이아이"
+      ],
+      "titleMatches": 7,
+      "confirmed": 3,
+      "representativeTitle": "허드슨에이아이, 더빙 자동화 솔루션 ‘현지화 AI 에이전트’ 공개",
+      "representativeLink": "https://byline.network/?p=9004111222624776"
+    },
+    {
+      "company": "Zoho",
+      "aliases": [
+        "조호",
+        "Zoho"
+      ],
+      "titleMatches": 12,
+      "confirmed": 6,
+      "representativeTitle": "인도 SaaS 기업 '조호', \"한국 고객 1000개 돌파\"",
+      "representativeLink": "https://www.thelec.kr/news/articleView.html?idxno=64272"
+    },
+    {
+      "company": "패티",
+      "aliases": [
+        "패티",
+        "미르코드"
+      ],
+      "titleMatches": 4,
+      "confirmed": 2,
+      "representativeTitle": "패티, 한국어 AI 코딩 에이전트 '미르코드' 출시",
+      "representativeLink": "https://it.chosun.com/news/articleView.html?idxno=2023092172807"
+    },
+    {
+      "company": "티맥스티베로",
+      "aliases": [
+        "티맥스티베로"
+      ],
+      "titleMatches": 1,
+      "confirmed": 1,
+      "representativeTitle": "티맥스티베로, AI 에이전트 '아울AI'로 기업 데이터 활용 확대…업무 자...",
+      "representativeLink": "https://zdnet.co.kr/view/?no=20261026162804"
+    },
+    {
+      "company": "마에스트로포렌식",
+      "aliases": [
+        "마에스트로포렌식",
+        "마에스트로 포렌식"
+      ],
+      "titleMatches": 9,
+      "confirmed": 3,
+      "representativeTitle": "마에스트로 포렌식, 자연어로 디지털 증거 분석하는 ‘위즈덤 AI 에이전...",
+      "representativeLink": "https://www.venturesquare.net/1122989/"
+    },
+    {
+      "company": "윈웨이",
+      "aliases": [
+        "윈웨이"
+      ],
+      "titleMatches": 1,
+      "confirmed": 1,
+      "representativeTitle": "윈웨이, 금융권 AI 개발 자동화 시장 공략…폐쇄망 에이전트 'WinPilot' 선...",
+      "representativeLink": "https://www.it-b.co.kr/news/articleView.html?idxno=90388"
+    },
+    {
+      "company": "넥스톰",
+      "aliases": [
+        "넥스톰"
+      ],
+      "titleMatches": 1,
+      "confirmed": 1,
+      "representativeTitle": "넥스톰, 공장 운영 돕는 제조업 특화 AI 에이전트 만든다 [서울AI허브 20...",
+      "representativeLink": "https://it.chosun.com/news/articleView.html?idxno=2023092172208"
+    },
+    {
+      "company": "Cloudflare",
+      "aliases": [
+        "클라우드플레어",
+        "Cloudflare"
+      ],
+      "titleMatches": 2,
+      "confirmed": 1,
+      "representativeTitle": "클라우드플레어 개발자 1천만명 돌파…AI 에이전트 요청 1700% 폭증",
+      "representativeLink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875893"
+    },
+    {
+      "company": "Intel",
+      "aliases": [
+        "인텔",
+        "Intel"
+      ],
+      "titleMatches": 4,
+      "confirmed": 2,
+      "representativeTitle": "인텔 팹에 들어간 '에이전틱 AI'…이상 감지 30% 단축·750만 달러 절감",
+      "representativeLink": "https://www.etnews.com/20261023000181"
+    },
+    {
+      "company": "나무에이엑스",
+      "aliases": [
+        "나무에이엑스"
+      ],
+      "titleMatches": 1,
+      "confirmed": 1,
+      "representativeTitle": "나무에이엑스, '재팬 IT 위크 추계 2026' 참가…에이전틱 AI·클라우드 선...",
+      "representativeLink": "https://www.epnc.co.kr/news/articleView.html?idxno=408651"
+    },
+    {
+      "company": "인핸스",
+      "aliases": [
+        "인핸스"
+      ],
+      "titleMatches": 4,
+      "confirmed": 3,
+      "representativeTitle": "오토앤, 인핸스와 AI 커머스 및 AI 에이전트 개발 MOU…SDV 연계 추진",
+      "representativeLink": "https://www.fntoday.co.kr/news/articleView.html?idxno=396055"
+    },
+    {
+      "company": "카페24",
+      "aliases": [
+        "카페24",
+        "Cafe24"
+      ],
+      "titleMatches": 13,
+      "confirmed": 7,
+      "representativeTitle": "카페24, WebMCP 기술 적용…에이전틱 커머스 환경 구축",
+      "representativeLink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875205"
+    },
+    {
+      "company": "당근",
+      "aliases": [
+        "당근",
+        "당근마켓"
+      ],
+      "titleMatches": 1,
+      "confirmed": 1,
+      "representativeTitle": "당근, AI 에이전트로 장애 추적 40분→2분…사내 AI에이전트 180개 돌파",
+      "representativeLink": "https://www.edaily.co.kr/News/Read?newsId=05444806645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article"
+    },
+    {
+      "company": "트웰브랩스",
+      "aliases": [
+        "트웰브랩스",
+        "Twelve Labs"
+      ],
+      "titleMatches": 1,
+      "confirmed": 1,
+      "representativeTitle": "트웰브랩스, '미디어 에이전트' 시대 연다… 방송부터 커머스·제조로 ...",
+      "representativeLink": "https://www.edaily.co.kr/News/Read?newsId=04897046645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article"
+    },
+    {
+      "company": "Coinbase",
+      "aliases": [
+        "코인베이스",
+        "Coinbase"
+      ],
+      "titleMatches": 1,
+      "confirmed": 1,
+      "representativeTitle": "\"비트코인 사줘\" 말하면 거래까지…코인베이스, AI 에이전트 연동",
+      "representativeLink": "https://www.news1.kr/finance/blockchain-fintech/6329694"
+    },
+    {
+      "company": "씽킹AI",
+      "aliases": [
+        "씽킹AI"
+      ],
+      "titleMatches": 9,
+      "confirmed": 3,
+      "representativeTitle": "\"에이전트 시대, 비즈니스 속도 따라가려면\" '씽킹AI 서밋 서울' 성료",
+      "representativeLink": "https://ditoday.com/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8b%9c%eb%8c%80-%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4-%ec%86%8d%eb%8f%84-%eb%94%b0%eb%9d%bc%ea%b0%80%eb%a0%a4%eb%a9%b4-%ec%94%bd%ed%82%b9ai-%ec%84%9c/"
+    },
+    {
+      "company": "Cisco",
+      "aliases": [
+        "시스코",
+        "Cisco",
+        "스플렁크",
+        "Splunk"
+      ],
+      "titleMatches": 7,
+      "confirmed": 3,
+      "representativeTitle": "시스코, '2026 스플렁크 옵저버빌리티 현황 보고서' 발표...AI 에이전트 ...",
+      "representativeLink": "https://www.dailysecu.com/news/articleView.html?idxno=208976"
+    },
+    {
+      "company": "이스트소프트",
+      "aliases": [
+        "이스트소프트"
+      ],
+      "titleMatches": 11,
+      "confirmed": 2,
+      "representativeTitle": "[AI 브리프] 이스트소프트, AI 아바타 서비스 '페르소 인터랙티브' 공공...",
+      "representativeLink": "https://www.itdaily.kr/news/articleView.html?idxno=242432"
+    },
+    {
+      "company": "OutSystems",
+      "aliases": [
+        "아웃시스템즈",
+        "OutSystems"
+      ],
+      "titleMatches": 2,
+      "confirmed": 2,
+      "representativeTitle": "아웃시스템즈 \"AI 에이전트 운영 자신감 높지만 충돌 대응 준비 부족\"",
+      "representativeLink": "https://zdnet.co.kr/view/?no=20261021133930"
+    },
+    {
+      "company": "Zoom",
+      "aliases": [
+        "줌",
+        "Zoom"
+      ],
+      "titleMatches": 3,
+      "confirmed": 1,
+      "representativeTitle": "회의 놓쳐도 AI가 챙긴다…줌, '통합 컨텍스트 레이어' 공개",
+      "representativeLink": "https://www.betanews.net/article/view/beta202610210064"
+    },
+    {
+      "company": "스렛북",
+      "aliases": [
+        "스렛북",
+        "ThreatBook"
+      ],
+      "titleMatches": 1,
+      "confirmed": 1,
+      "representativeTitle": "스렛북, AI 기반 침투 테스트 플랫폼 'RedAgents' 출시...다중 에이전트...",
+      "representativeLink": "https://www.dailysecu.com/news/articleView.html?idxno=208957"
+    },
+    {
+      "company": "SailPoint",
+      "aliases": [
+        "세일포인트",
+        "SailPoint"
+      ],
+      "titleMatches": 3,
+      "confirmed": 1,
+      "representativeTitle": "세일포인트, 자율형 아이덴티티 보안 솔루션 포트폴리오 업데이트",
+      "representativeLink": "https://www.itbiznews.com/news/articleView.html?idxno=228509"
+    },
+    {
+      "company": "비젠트로",
+      "aliases": [
+        "비젠트로"
+      ],
+      "titleMatches": 1,
+      "confirmed": 1,
+      "representativeTitle": "비젠트로, ERP·MES에 멀티 에이전트 결합… 에이전틱 엔터프라이즈 구...",
+      "representativeLink": "https://www.industrynews.co.kr/news/articleView.html?idxno=87764"
+    },
+    {
+      "company": "플래티어",
+      "aliases": [
+        "플래티어"
+      ],
+      "titleMatches": 16,
+      "confirmed": 1,
+      "representativeTitle": "플래티어, 폐쇄망에서도 AI 품질관리 시대 연다…‘XGEN TMS’ 출시",
+      "representativeLink": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/26/2026102680185.html"
+    },
+    {
+      "company": "원라인에이아이",
+      "aliases": [
+        "원라인에이아이"
+      ],
+      "titleMatches": 1,
+      "confirmed": 1,
+      "representativeTitle": "원라인에이아이, LS증권 AI 플랫폼 구축 사업 수주…에이전트 통제 기술...",
+      "representativeLink": "https://www.etnews.com/20261020000019"
+    },
+    {
+      "company": "MiniMax",
+      "aliases": [
+        "미니맥스",
+        "MiniMax"
+      ],
+      "titleMatches": 2,
+      "confirmed": 1,
+      "representativeTitle": "중국 AI 반도체 플랫폼 '쿤룬신', 미니맥스 신모델 'M3.1 플래시' 즉시 ...",
+      "representativeLink": "https://www.aitimes.kr/news/articleView.html?idxno=42425"
+    },
+    {
+      "company": "Brave",
+      "aliases": [
+        "브레이브",
+        "Brave"
+      ],
+      "titleMatches": 1,
+      "confirmed": 1,
+      "representativeTitle": "브레이브, BAT 보상 광고 연말까지 줄인다…AI 에이전트 결제 지원",
+      "representativeLink": "https://www.tokenpost.kr/news/cryptocurrency/424527"
+    },
+    {
+      "company": "안랩",
+      "aliases": [
+        "안랩",
+        "AhnLab"
+      ],
+      "titleMatches": 7,
+      "confirmed": 2,
+      "representativeTitle": "안랩 \"AI가 위협 탐지부터 대응까지\"…차세대 보안 전략 공개",
+      "representativeLink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875663"
+    },
+    {
+      "company": "Fortinet",
+      "aliases": [
+        "포티넷",
+        "Fortinet"
+      ],
+      "titleMatches": 1,
+      "confirmed": 0,
+      "representativeTitle": "“프롬프트 인젝션부터 섀도우 AI까지 방어”… 포티넷, 차세대 AI 보안...",
+      "representativeLink": "https://kidd.co.kr/news/247797"
+    },
+    {
+      "company": "올마이투어",
+      "aliases": [
+        "올마이투어"
+      ],
+      "titleMatches": 8,
+      "confirmed": 2,
+      "representativeTitle": "올마이투어, 日 '씨텍 2026' 참가…AI 기반 호텔 자율운영 OS '프로젝트 ...",
+      "representativeLink": "https://www.ajunews.com/view/20261021090303193"
+    },
+    {
+      "company": "삼보컴퓨터",
+      "aliases": [
+        "삼보컴퓨터"
+      ],
+      "titleMatches": 1,
+      "confirmed": 1,
+      "representativeTitle": "[에이전틱 AI 맵 2026] 삼보컴퓨터, 자체 AI 플랫폼·PC로 공공시장 공략...",
+      "representativeLink": "https://it.chosun.com/news/articleView.html?idxno=2023092171173"
+    }
+  ]
+}

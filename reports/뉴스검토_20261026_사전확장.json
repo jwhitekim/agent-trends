@@ -1,0 +1,5282 @@
+[
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876140",
+    "company": "제논",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.newsian.co.kr/news/articleView.html?idxno=97780",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53976",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.khan.co.kr/article/202610262028045",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.venturesquare.net/1122989/",
+    "company": "마에스트로포렌식",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=361284",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1189160",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.koreatimes.com/article/11629179?utm_source=naver",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.koreatimes.com/article/11629179?utm_source=naver",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=450316",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=44827",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/26/2026102680185.html",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.kmib.co.kr/article/20261026502022",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.gpkorea.com/news/articleView.html?idxno=147950",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.joongang.co.kr/article/25472940",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.joongang.co.kr/article/25472940",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.goodkyung.com/news/articleView.html?idxno=292757",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484613",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://biz.heraldcorp.com/article/10914790?ref=naver",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.etnews.com/20261026000428",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498606",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1335136",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.thelec.kr/news/articleView.html?idxno=64272",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.thelec.kr/news/articleView.html?idxno=64272",
+    "company": "Zoho",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=138676",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88221",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ceoscoredaily.com/page/view/2026102615520675596",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ceoscoredaily.com/page/view/2026102615520675596",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ceoscoredaily.com/page/view/2026102615520675596",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624714",
+    "company": "Zoho",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.donga.com/news/It/article/all/20261026/134910722/2",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261026174513",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.mt.co.kr/future/2026/10/26/2026102615444348231",
+    "company": "Zoho",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=04165606645616856&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "xAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193737",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.khan.co.kr/article/202610261738001",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193761",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.hankyung.com/article/2026102660001",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=368167",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.hankyung.com/article/202610265944i",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.fetv.co.kr/news/articleView.html?idxno=312452",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://sports.hankooki.com/news/articleView.html?idxno=6942287",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12186061",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.snmnews.com/news/articleView.html?idxno=576413",
+    "company": "코난테크놀로지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12186052",
+    "company": "제논",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.finomy.com/news/articleView.html?idxno=264654",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=725314",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=368163",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209076",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=04047526645616856&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216684",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080131",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.hankyung.com/article/2026102658871",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.job-post.co.kr/news/articleView.html?idxno=234587",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.betanews.net/article/view/beta202610260037",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484586",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3733063",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://news.dealsitetv.com/articles/177501",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12091333?ref=naver",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://biz.heraldcorp.com/article/10915267?ref=naver",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://biz.heraldcorp.com/article/10915267?ref=naver",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=396265",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599715861132",
+    "company": "Alibaba",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.datasom.co.kr/news/articleView.html?idxno=210508",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282564",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1541669",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215359",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://news.ifm.kr/news/articleView.html?idxno=482667",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.newsbrite.net/news/articleView.html?idxno=201121",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.finomy.com/news/articleView.html?idxno=264631",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.finomy.com/news/articleView.html?idxno=264631",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.finomy.com/news/articleView.html?idxno=264644",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.itdaily.kr/news/articleView.html?idxno=242445",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202655",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50043",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.the-today.com/news/articleView.html?idxno=92414",
+    "company": "Microsoft",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876371",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.getnews.co.kr/news/articleView.html?idxno=884846",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.jasm.co.kr/news/view/322987/?sc=Naver",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202647",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=558112",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.g-enews.com/view.php?ud=202610261625209324153ddfb15a_1",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=211799",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210271",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=799564",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279676",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.fnnews.com/news/202610261620229507",
+    "company": "Microsoft",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.fnnews.com/news/202610261620229507",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.fnnews.com/news/202610261620229507",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261450460250174",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601495",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12091303?ref=naver",
+    "company": "패티",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.hinews.co.kr/view.php?ud=202610261614066403cd8b879b3c_48",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.cnbizm.com/news/articleView.html?idxno=319249",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876191",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://sateconomy.co.kr/news/view/1065596369724725",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://sateconomy.co.kr/news/view/1065596369724725",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsway.co.kr/news/view?ud=2026102615322517434",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ziksir.com/news/articleView.html?idxno=150784",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.delighti.co.kr/news/articleView.html?idxno=123871",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.updownnews.co.kr/news/articleView.html?idxno=319304",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12185895",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12185895",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261026154903",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261026154903",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.insight.co.kr/news/579175",
+    "company": "Alibaba",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=241209",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408768",
+    "company": "마에스트로포렌식",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=03647366645616856&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.bbc.com/korean/articles/c6073xlnj04no?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261057048340101",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=66463",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.moneystorm.kr/news/articleView.html?idxno=7673",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsis.com/view/NISX20261026_0003841492",
+    "company": "IBM",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.wsobi.com/news/articleView.html?idxno=320372",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newsis.com/view/NISX20261026_0003841448",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595743632447",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.kgnews.co.kr/news/article.html?no=916754",
+    "company": "마에스트로포렌식",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=746873",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newstnt.com/news/articleView.html?idxno=724955",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://thetracker.co.kr/View.aspx?No=4279404",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2348003",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2348003",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102615310958039",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420196",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mediapen.com/news/view/1132513",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.mediapen.com/news/view/1132513",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newspim.com/news/view/20261026000929",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12185837",
+    "company": "제논",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=4424",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://biz.chosun.com/it-science/ict/2026/10/26/HVBPP6DFDZFBDPT5G3AAF3YNNA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.todayeconomic.com/news/article.html?no=32593",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://magazine.hankyung.com/money/article/202610265558c",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.it-b.co.kr/news/articleView.html?idxno=90408",
+    "company": "Zoho",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://view.asiae.co.kr/article/2026102615311472286",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.inthenews.co.kr/news/article.html?no=93531",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408767",
+    "company": "패티",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://platum.kr/archives/297041",
+    "company": "허드슨에이아이",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.newspim.com/news/view/20261026000890",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.yna.co.kr/view/AKR20261026122800008?input=1195m",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729190",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102614250541594",
+    "company": "Zoho",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=267897",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.fnnews.com/news/202610261517156296",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.globalepic.co.kr/view.php?ud=202610261515597317cc35ccc5c_29",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=2010416",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.newsdream.kr/news/articleView.html?idxno=120825",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.metroseoul.co.kr/article/20261026500445",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91521",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.boannews.com/news/articleView.html?idxno=146730",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=2010401",
+    "company": "IBM",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91917",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3443160",
+    "company": "Zoho",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.popcornnews.net/news/articleView.html?idxno=137334",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.nocutnews.co.kr/news/6597095?utm_source=naver&utm_medium=article&utm_campaign=20261026030411",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=619370",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=2010312",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=2010312",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216645",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.sportsseoul.com/news/read/1644137?ref=naver",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=63038",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=107302",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408765",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156499",
+    "company": "Microsoft",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624661",
+    "company": "Alibaba",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ziksir.com/news/articleView.html?idxno=150736",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://enter.etoday.co.kr/news/view/304306",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://ditoday.com/%e7%be%8e-%ed%8e%9c%ec%8b%a4%eb%b2%a0%ec%9d%b4%eb%8b%88%ec%95%84%ec%a3%bc-ai-%ec%83%9d%ec%84%b1-%ea%b4%91%ea%b3%a0-%ed%91%9c%ec%8b%9c-%ec%9d%98%eb%ac%b4%ed%99%94/",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://ditoday.com/%e7%be%8e-%ed%8e%9c%ec%8b%a4%eb%b2%a0%ec%9d%b4%eb%8b%88%ec%95%84%ec%a3%bc-ai-%ec%83%9d%ec%84%b1-%ea%b4%91%ea%b3%a0-%ed%91%9c%ec%8b%9c-%ec%9d%98%eb%ac%b4%ed%99%94/",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://ditoday.com/%e7%be%8e-%ed%8e%9c%ec%8b%a4%eb%b2%a0%ec%9d%b4%eb%8b%88%ec%95%84%ec%a3%bc-ai-%ec%83%9d%ec%84%b1-%ea%b4%91%ea%b3%a0-%ed%91%9c%ec%8b%9c-%ec%9d%98%eb%ac%b4%ed%99%94/",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newspim.com/news/view/20261026000800",
+    "company": "Meta",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.itdaily.kr/news/articleView.html?idxno=242441",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=81998",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323591",
+    "company": "xAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408760",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729161",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3014470",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3014470",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323586",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ibabynews.com/news/articleView.html?idxno=156197",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.fnnews.com/news/202610261354344527",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://news.bizwatch.co.kr/article/market/2026/10/26/0016",
+    "company": "Microsoft",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://news.bizwatch.co.kr/article/market/2026/10/26/0016",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261344525730152",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261344525730152",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.metroseoul.co.kr/article/20261026500291",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=558263",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261026140017",
+    "company": "코난테크놀로지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://sports.khan.co.kr/article/202610261400003?pt=nv",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3443115",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.apnews.kr/news/articleView.html?idxno=3052458",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ekn.kr/web/view.php?key=20261026026141133",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53956",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://dealsite.co.kr/articles/171306",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16258200",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etnews.com/20261026000262",
+    "company": "코난테크놀로지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etoday.co.kr/news/view/2640050",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.thelec.kr/news/articleView.html?idxno=64249",
+    "company": "마에스트로포렌식",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=172592",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709877",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.breaknews.com/1245669",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.job-post.co.kr/news/articleView.html?idxno=234399",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.seoultimes.news/news/article.html?no=2000101359",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://platum.kr/archives/296986",
+    "company": "xAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.boannews.com/news/articleView.html?idxno=146731",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216638",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.kukinews.com/article/view/kuk202610260122",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.kukinews.com/article/view/kuk202610260122",
+    "company": "Alibaba",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172766",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-economynews.com/news/article.html?no=72112",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newsway.co.kr/news/view?ud=2026102611590100171",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsway.co.kr/news/view?ud=2026102611553940356",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=44798",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.insidevina.com/news/articleView.html?idxno=44349",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.itdaily.kr/news/articleView.html?idxno=242432",
+    "company": "이스트소프트",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216646",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://m.skyedaily.com/news_view.html?ID=313508",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://coinreaders.com/265186",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408745",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.cwn.kr/news/articleView.html?idxno=60127",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216642",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sidae.com/article/2026102611333523310",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.starnewskorea.com/business-life/2026/10/26/2026102612041027430",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.seouleconews.com/news/articleView.html?idxno=94569",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610261117175920104662",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.koit.co.kr/news/articleView.html?idxno=209663",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.it-b.co.kr/news/articleView.html?idxno=90401",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mydaily.co.kr/page/view/2026102611415648708",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newsis.com/view/NISX20261026_0003840896",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newsis.com/view/NISX20261026_0003840896",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.newsdream.kr/news/articleView.html?idxno=120787",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://biz.chosun.com/it-science/ict/2026/10/26/EKHEVJE5UVBR7GIVE43S7KVRB4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ngonews.kr/news/articleView.html?idxno=241459",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://theviewers.co.kr/View.aspx?No=4278619",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://theviewers.co.kr/View.aspx?No=4278619",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.getnews.co.kr/news/articleView.html?idxno=884788",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.fnnews.com/news/202610260937166850",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.livebiz.today/news/articleView.html?idxno=205917",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=900735",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sentv.co.kr/article/view/sentv202610260099",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.inews24.com/view/2018816",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709868",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.segye.com/newsView/20261026506878?OutUrl=naver",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2120383",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610260053&t=NN",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610260053&t=NN",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610260053&t=NN",
+    "company": "Microsoft",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610260053&t=NN",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.widedaily.com/news/articleView.html?idxno=302308",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215350",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.cnbizm.com/news/articleView.html?idxno=319212",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261026105927",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610261033506640108565",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610261033506640108565",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210253",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210253",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.inews24.com/view/2018813",
+    "company": "코난테크놀로지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.delighti.co.kr/news/articleView.html?idxno=123831",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202635",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408737",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.it-b.co.kr/news/articleView.html?idxno=90399",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.kukinews.com/article/view/kuk202610260071",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.kukinews.com/article/view/kuk202610260071",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.beyondpost.co.kr/view.php?ud=2026102610435169146a9e4dd7f_30",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.itbiznews.com/news/articleView.html?idxno=229116",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://idsn.co.kr/news/view/1065577176751365",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://idsn.co.kr/news/view/1065577176751365",
+    "company": "KT",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://idsn.co.kr/news/view/1065577176751365",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676675",
+    "company": "업스테이지",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://news.bizwatch.co.kr/article/consumer/2026/10/26/0009",
+    "company": "Alibaba",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etnews.com/20261026000132",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.techholic.co.kr/news/articleView.html?idxno=223389",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=241178",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sentv.co.kr/article/view/sentv202610260085",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20106027?ref=naver",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20106027?ref=naver",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2120393",
+    "company": "LG",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.socialvalue.kr/news/view/1065577124385189",
+    "company": "Alibaba",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=303398",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://kr.aving.net/news/articleView.html?idxno=1816098",
+    "company": "마에스트로포렌식",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://news.mtn.co.kr/article/2026102608532544177",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=319560",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.pointe.co.kr/news/articleView.html?idxno=86595",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.hellot.net/news/article.html?no=115769",
+    "company": "코난테크놀로지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newspim.com/news/view/20261026000195",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254167",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://view.asiae.co.kr/article/2026102610143288607",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.socialvalue.kr/news/view/1065576550580149",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215346",
+    "company": "마에스트로포렌식",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://economist.co.kr/article/view/ecn202610260008",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etnews.com/20261026000101",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://kr.aving.net/news/articleView.html?idxno=1816094",
+    "company": "허드슨에이아이",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://view.asiae.co.kr/article/2026102610220981873",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156476",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.moneystorm.kr/news/articleView.html?idxno=7644",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.wsobi.com/news/articleView.html?idxno=320317",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.busan.com/view/busan/view.php?code=2026102609575615496",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.gokorea.kr/news/articleView.html?idxno=882695",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575207733593",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.gokorea.kr/news/articleView.html?idxno=882686",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.venturesquare.net/1122716/",
+    "company": "허드슨에이아이",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729104",
+    "company": "Alibaba",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210229",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814646&plink=ORI&cooper=NAVER",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=66348",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.kado.net/news/articleView.html?idxno=2080412",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=558116",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://news.tf.co.kr/read/economy/2380535.htm",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709811",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102609541514701",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20105989?ref=naver",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=368100",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12185450",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.yna.co.kr/view/AKR20261026045500017?input=1195m",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.sbs.co.kr/article_hub/20000342054?division=NAVER",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.newsdream.kr/news/articleView.html?idxno=120750",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=558102",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.inthenews.co.kr/news/article.html?no=93486",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=157440",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12185442",
+    "company": "허드슨에이아이",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.yna.co.kr/view/AKR20261026045900017?input=1195m",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075778",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080029",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.metroseoul.co.kr/article/20261026500073",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etoday.co.kr/news/view/2639936",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://biz.chosun.com/it-science/ict/2026/10/26/6O5J46YDUFCKRI62O2CTEAWTRQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://kpenews.com/View.aspx?No=4278438",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.viva100.com/article/20261026500201",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsis.com/view/NISX20261026_0003840602",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=799398",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=799398",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=799398",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://view.asiae.co.kr/article/2026102609325800781",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282419",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=446218",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etnews.com/20261026000031",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.yna.co.kr/view/AKR20261026035000017?input=1195m",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.job-post.co.kr/news/articleView.html?idxno=234288",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080017",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newspim.com/news/view/20261026000147",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.news1.kr/it-science/internet-platform/6331459",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624568",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709788",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102609103844414",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.news1.kr/it-science/cc-newmedia/6331406",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1418175",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.eroun.net/news/articleView.html?idxno=93396",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=558042",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215323",
+    "company": "Salesforce",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216577",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91807",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mt.co.kr/tech/2026/10/26/2026102608473288201",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729083",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408724",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsis.com/view/NISX20261026_0003840472",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261026003156",
+    "company": "Microsoft",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ajunews.com/view/20261026084605876",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=02112326645616856&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://kpenews.com/View.aspx?No=4278324",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://biz.heraldcorp.com/article/10914219?ref=naver",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3732164",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.viva100.com/article/20261026500021",
+    "company": "Alibaba",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=66415",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20105927?ref=naver",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20105927?ref=naver",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.etnews.com/20261026000002",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.etoday.co.kr/news/view/2639818",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709772",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709632",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172633",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.g-enews.com/view.php?ud=202610260623389195e250e8e188_1",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610231424423970891",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://economychosun.com/site/data/html_dir/2026/10/17/2026101700001.html",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.monews.co.kr/news/articleView.html?idxno=414639",
+    "company": "삼성",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.fntimes.com/html/view.php?ud=2026102318251636181b5a221379_18",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.chosun.com/it-science/ict/2026/10/26/OH4MRIUC4JCZRMJUQT3HDOULNY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.chosun.com/it-science/ict/2026/10/26/OH4MRIUC4JCZRMJUQT3HDOULNY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sidae.com/article/2026102314355646191",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12091126?ref=naver",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.donga.com/news/Society/article/all/20261025/134905656/2",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.g-enews.com/view.php?ud=2026102523473713652bd56fbc3c_1",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.donga.com/news/Economy/article/all/20261025/134897164/2",
+    "company": "Microsoft",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newspim.com/news/view/20261026000001",
+    "company": "Tencent",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91782",
+    "company": "Meta",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876167",
+    "company": "IBM",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12091386?ref=naver",
+    "company": "Microsoft",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102616461257473",
+    "company": "IBM",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676736",
+    "company": "IBM",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676736",
+    "company": "Palantir",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709982",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12091294?ref=naver",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261026145239",
+    "company": "IBM",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729159",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://platum.kr/archives/297010",
+    "company": "IBM",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.etnews.com/20261026000268",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1418355",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216647",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.veritas-a.com/news/articleView.html?idxno=633452",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.widedaily.com/news/articleView.html?idxno=302317",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282462",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.hellot.net/news/article.html?no=115772",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.venturesquare.net/1122742/",
+    "company": "IBM",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102609444618145",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.paxetv.com/news/articleView.html?idxno=285107",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.newsis.com/view/NISX20261026_0003840399",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://view.asiae.co.kr/article/2026102608243816003",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=725212",
+    "company": "플래티어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=666968",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42425",
+    "company": "MiniMax",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31882",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709766",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.khan.co.kr/article/202610252058025",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216628",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216628",
+    "company": "Tencent",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20105525?ref=naver",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.hankyung.com/article/2026102535151",
+    "company": "Microsoft",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.hankyung.com/article/2026102535151",
+    "company": "Salesforce",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.hankyung.com/article/2026102535151",
+    "company": "ServiceNow",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12185198",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12185182",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216620",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216620",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.khan.co.kr/article/202610251648001",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12185119",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://view.asiae.co.kr/article/2026102317135210904",
+    "company": "Meta",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etnews.com/20261023000282",
+    "company": "삼성",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.munhwa.com/article/11626043?ref=naver",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.metroseoul.co.kr/article/20261025500201",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.metroseoul.co.kr/article/20261025500201",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=2009650",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.fnnews.com/news/202610251432019797",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038737",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261025131537",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261025131537",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etnews.com/20261023000188",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsis.com/view/NISX20261023_0003839173",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.yna.co.kr/view/AKR20261024023400004?input=1195m",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newspim.com/news/view/20261023001111",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.livebiz.today/news/articleView.html?idxno=205894",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.donga.com/news/Economy/article/all/20261024/134900007/1",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875888",
+    "company": "솔트룩스",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.yna.co.kr/view/AKR20261023057700017?input=1195m",
+    "company": "KT",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.g-enews.com/view.php?ud=202610250721242978fda4f5ab74_1",
+    "company": "Microsoft",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mt.co.kr/future/2026/10/25/2026101408390684830",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=323587",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=323587",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709759",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://weekly.chosun.com/news/articleView.html?idxno=56470",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://weekly.chosun.com/news/articleView.html?idxno=56470",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=618970",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.goodkyung.com/news/articleView.html?idxno=292721",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.goodkyung.com/news/articleView.html?idxno=292721",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172700",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.inews24.com/view/2018447",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.inews24.com/view/2018447",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102310555652890",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102310555652890",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102310555652890",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172597",
+    "company": "Microsoft",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://weekly.chosun.com/news/articleView.html?idxno=56469",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://weekly.chosun.com/news/articleView.html?idxno=56469",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://weekly.chosun.com/news/articleView.html?idxno=56469",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193681",
+    "company": "Anthropic",
+    "reason": "보류: 채용 감소 전망·의견 제목으로 개발·출시·운영 행위를 확인하지 못함"
+  },
+  {
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172612",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172612",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.g-enews.com/view.php?ud=2026102420584326339a1f309431_1",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.medigatenews.com/news/1753204461",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=618930",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dailymedi.com/news/news_view.php?wr_id=941538",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102411543063408",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42418",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216616",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216615",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000076338",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000076338",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216613",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216613",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875901",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.heraldcorp.com/article/10913544?ref=naver",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216612",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.tfmedia.co.kr/news/article.html?no=208328",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://news.bizwatch.co.kr/article/industry/2026/10/23/0042",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://news.bizwatch.co.kr/article/industry/2026/10/23/0042",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5226876",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=66386",
+    "company": "Meta",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-economynews.com/news/article.html?no=72070",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-economynews.com/news/article.html?no=72069",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-economynews.com/news/article.html?no=72069",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.yna.co.kr/view/AKR20261024025600009?input=1195m",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.getnews.co.kr/news/articleView.html?idxno=884679",
+    "company": "삼성",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.getnews.co.kr/news/articleView.html?idxno=884679",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.news1.kr/world/usa-canada/6330607",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624548",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.dailypop.kr/news/articleView.html?idxno=103720",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.dailypop.kr/news/articleView.html?idxno=103720",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875669",
+    "company": "Meta",
+    "reason": "보류: 제목에서 메타는 한컴 제품의 비교 대상으로만 등장하여 메타의 개발·출시·운영 행위를 확인하지 못함"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875663",
+    "company": "안랩",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282324",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.theguru.co.kr/news/article.html?no=108744",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.theguru.co.kr/news/article.html?no=108744",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102314023397038",
+    "company": "업스테이지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102314023397038",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.theguru.co.kr/news/article.html?no=108731",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.etoday.co.kr/news/view/2639577",
+    "company": "업스테이지",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3442719",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3442719",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.lawissue.co.kr/view.php?ud=20261023214432851204ead0791_12",
+    "company": "Meta",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.lawissue.co.kr/view.php?ud=20261023214432851204ead0791_12",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205452",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205452",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205452",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.kukinews.com/article/view/kuk202610230195",
+    "company": "업스테이지",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.kukinews.com/article/view/kuk202610230195",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.kukinews.com/article/view/kuk202610230195",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.koreastocknews.com/news/articleView.html?idxno=121909",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.etnews.com/20261023000341",
+    "company": "포티투마루",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709687",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49986",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624495",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://biz.chosun.com/it-science/ict/2026/10/23/GSBZPTKA5RDOZNMRE3M3DQIKRM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://futurechosun.com/?p=164409",
+    "company": "LG",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://news.dealsitetv.com/articles/177442",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://news.dealsitetv.com/articles/177442",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=2009736",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.itdaily.kr/news/articleView.html?idxno=242409",
+    "company": "포티투마루",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.itdaily.kr/news/articleView.html?idxno=242409",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.itdaily.kr/news/articleView.html?idxno=242408",
+    "company": "업스테이지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.itdaily.kr/news/articleView.html?idxno=242408",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.g-enews.com/view.php?ud=2026102314565638203d7a510102_1",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261023160658",
+    "company": "포티투마루",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279559",
+    "company": "포티투마루",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408692",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.inews24.com/view/2018438",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.inews24.com/view/2018438",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=729802",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323425",
+    "company": "Meta",
+    "reason": "보류: 제목에서 메타는 한컴 제품의 비교 대상으로만 등장하여 메타의 개발·출시·운영 행위를 확인하지 못함"
+  },
+  {
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156450",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102314525937728",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12090872?ref=naver",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715735",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483829",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282240",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282240",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209023",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1417894",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254145",
+    "company": "Meta",
+    "reason": "보류: 제목에서 메타는 한컴 제품의 비교 대상으로만 등장하여 메타의 개발·출시·운영 행위를 확인하지 못함"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20105352?ref=naver",
+    "company": "업스테이지",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20105352?ref=naver",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=557776",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=557776",
+    "company": "업스테이지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=557776",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728951",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=157336",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12090855?ref=naver",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.yna.co.kr/view/AKR20261023102300017?input=1195m",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=157361",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=04093446645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "업스테이지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etnews.com/20261023000208",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875539",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.greened.kr/news/articleView.html?idxno=352880",
+    "company": "Meta",
+    "reason": "보류: 제목에서 메타는 한컴 제품의 비교 대상으로만 등장하여 메타의 개발·출시·운영 행위를 확인하지 못함"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261023131238",
+    "company": "업스테이지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261023131238",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875508",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875508",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=342798",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=66324",
+    "company": "Meta",
+    "reason": "보류: 제목에서 메타는 한컴 제품의 비교 대상으로만 등장하여 메타의 개발·출시·운영 행위를 확인하지 못함"
+  },
+  {
+    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586068077620",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.popcornnews.net/news/articleView.html?idxno=137096",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.datanews.co.kr/news/article.html?no=147089",
+    "company": "한글과컴퓨터",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261023122822",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261023122822",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261023122822",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=90847",
+    "company": "Meta",
+    "reason": "보류: 제목에서 메타는 한컴 제품의 비교 대상으로만 등장하여 메타의 개발·출시·운영 행위를 확인하지 못함"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709504",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.e-science.co.kr/news/articleView.html?idxno=138004",
+    "company": "안랩",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.itdaily.kr/news/articleView.html?idxno=242403",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.boannews.com/news/articleView.html?idxno=146696",
+    "company": "안랩",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=618548",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.itbiznews.com/news/articleView.html?idxno=228918",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.hellot.net/news/article.html?no=115740",
+    "company": "포티투마루",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408638",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=03240646645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "안랩",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102309410047384",
+    "company": "포티투마루",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216346",
+    "company": "Anthropic",
+    "reason": "보류: 도서 소개 제목이며 기업의 사업 동향으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215295",
+    "company": "안랩",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.paxetv.com/news/articleView.html?idxno=284972",
+    "company": "인핸스",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875190",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newspim.com/news/view/20261023000005",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=06970006645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=06970006645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172713",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216592",
+    "company": "업스테이지",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216592",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://biz.chosun.com/it-science/ict/2026/10/23/Y4K7JNXPQ5FO7KPOTXJN3ZJS2U/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709601",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709601",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.itdaily.kr/news/articleView.html?idxno=242406",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=04428006645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215318",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215318",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624441",
+    "company": "솔트룩스",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=04044246645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=04044246645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102312035046026",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=03873686645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=03873686645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209016",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://news.dealsitetv.com/articles/177403",
+    "company": "솔트룩스",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://view.asiae.co.kr/article/2026102309000829412",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.newsprime.co.kr/news/article.html?no=752093",
+    "company": "솔트룩스",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709387",
+    "company": "Microsoft",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728766",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728766",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.tokenpost.kr/news/tech/426000",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.thedailypost.kr/news/articleView.html?idxno=116385",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.venturesquare.net/1122094/",
+    "company": "LG",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.lawissue.co.kr/view.php?ud=2026102221273989029817d053b9_12",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=06254966645615544&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=06254966645615544&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=361122",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075057",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261022191127",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261022191127",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.news1.kr/it-science/internet-platform/6329035",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.news1.kr/it-science/internet-platform/6329035",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=557334",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=557334",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42397",
+    "company": "Microsoft",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3729843",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3729843",
+    "company": "Microsoft",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3729843",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.sidae.com/article/2026101609445082888",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=367906",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.segyebiz.com/newsView/20261022521171?OutUrl=naver",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=799081",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=799081",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408620",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408620",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12090723?ref=naver",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.boannews.com/news/articleView.html?idxno=146659",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=45751",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=45751",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.it-b.co.kr/news/articleView.html?idxno=90365",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.viva100.com/article/20261022500941",
+    "company": "Meta",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.dailypop.kr/news/articleView.html?idxno=103663",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.thepowernews.co.kr/view.php?ud=202610221609116502de3f0aa1be_7",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=666741",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221553371390782",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.updownnews.co.kr/news/articleView.html?idxno=319268",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.finomy.com/news/articleView.html?idxno=264354",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://thetracker.co.kr/View.aspx?No=4274356",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.onews.tv/news/articleView.html?idxno=289814",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624308",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624308",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875156",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875156",
+    "company": "Cloudflare",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202579",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202579",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202579",
+    "company": "카페24",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://news.tvchosun.com/site/data/html_dir/2026/10/22/2026102290157.html",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2120239",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.munhwa.com/article/11625490?ref=naver",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.chosun.com/it-science/ict/2026/10/22/65KMYHN3MZBSDERDCSUE3NRVVM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323243",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592672335763",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://dealsite.co.kr/articles/171143",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://dealsite.co.kr/articles/171143",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newstnt.com/news/articleView.html?idxno=724429",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.newstomato.com/ReadNews.aspx?no=1317657&inflow=N",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=557205",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.inews24.com/view/2017919",
+    "company": "카페24",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.mydaily.co.kr/page/view/2026102214240371985",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.donga.com/news/Economy/article/all/20261022/134889758/1",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323196",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=281987",
+    "company": "삼성",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=281987",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=281987",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.nocutnews.co.kr/news/6595513?utm_source=naver&utm_medium=article&utm_campaign=20261022020122",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.khan.co.kr/article/202610221352001",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.news1.kr/industry/sb-founded/6328464",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.news1.kr/industry/sb-founded/6328464",
+    "company": "카페24",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.hellot.net/news/article.html?no=115723",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.hellot.net/news/article.html?no=115723",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53879",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=138445",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709158",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.hellot.net/news/article.html?no=115721",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.seoultimes.news/news/article.html?no=2000101237",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.greened.kr/news/articleView.html?idxno=352751",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=208993",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=90793",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.greened.kr/news/articleView.html?idxno=352742",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216508",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216508",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=281940",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sentv.co.kr/article/view/sentv202610220031",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=724925",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12182686",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12182686",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etoday.co.kr/news/view/2638853",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.inews24.com/view/2017794",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261022001116405",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.dizzotv.com/site/data/html_dir/2026/10/22/2026102280072.html",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=2009035",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.fnnews.com/news/202610221020162206",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.cnbizm.com/news/articleView.html?idxno=318848",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=66239",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.getnews.co.kr/news/articleView.html?idxno=884420",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261022095446",
+    "company": "카페24",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=281642",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.tokenpost.kr/news/ai/425706",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.socialvalue.kr/news/view/1065577402000292",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408581",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210084",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079673",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=157197",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.itbiznews.com/news/articleView.html?idxno=228738",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261022102428",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://kr.aving.net/news/articleView.html?idxno=1815925",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://ditoday.com/%ea%b5%ac%ea%b8%80-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%98%a4%ed%94%88ai-%eb%aa%a8%eb%8d%b8-%ea%b8%b0%ec%97%85-%ea%b3%a0%ea%b0%9d%ec%97%90-%ec%a0%9c%ea%b3%b5/",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://ditoday.com/%ea%b5%ac%ea%b8%80-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%98%a4%ed%94%88ai-%eb%aa%a8%eb%8d%b8-%ea%b8%b0%ec%97%85-%ea%b3%a0%ea%b0%9d%ec%97%90-%ec%a0%9c%ea%b3%b5/",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=303196",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261022101042",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102209503642115",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.kdfnews.com/news/articleView.html?idxno=189722",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215266",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215266",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2120202",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=900305",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=900305",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=900305",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.popcornnews.net/news/articleView.html?idxno=136886",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.popcornnews.net/news/articleView.html?idxno=136886",
+    "company": "KT",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156373",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156373",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.eroun.net/news/articleView.html?idxno=93136",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dailian.co.kr/news/view/1704483/?sc=Naver",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20104667?ref=naver",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.news2day.co.kr/article/20261022500050",
+    "company": "카페24",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.pointe.co.kr/news/articleView.html?idxno=86430",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ngonews.kr/news/articleView.html?idxno=241172",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.news1.kr/it-science/internet-platform/6328071",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.news1.kr/it-science/internet-platform/6328071",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.newsdream.kr/news/articleView.html?idxno=120560",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.wsobi.com/news/articleView.html?idxno=320137",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.econovill.com/news/articleView.html?idxno=754487",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.viva100.com/article/20261022500277",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.viva100.com/article/20261022500277",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.mt.co.kr/tech/2026/10/22/2026102209131779042",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.yna.co.kr/view/AKR20261022036800017?input=1195m",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mt.co.kr/tech/2026/10/22/2026102209182221350",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etnews.com/20261022000044",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3442208",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3442208",
+    "company": "KT",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709027",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87815",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://view.asiae.co.kr/article/2026102209122749123",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.press9.kr/news/articleView.html?idxno=84660",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215260",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261021225217",
+    "company": "Intel",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.etnews.com/20261022000034",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.sbs.co.kr/article_hub/20000341447?division=NAVER",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420104",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsis.com/view/NISX20261022_0003836087",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=02906086645615544&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=02906086645615544&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/22/2026102200038.html",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ajunews.com/view/20261022085423948",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728715",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.econovill.com/news/articleView.html?idxno=754483",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.econovill.com/news/articleView.html?idxno=754483",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.chosun.com/distribution/channel/2026/10/22/4ULUGCNOFZA6ZBUFBGBMGZYDXA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "company": "카페24",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.ajunews.com/view/20261021080322935",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.wikitree.co.kr/articles/1168145",
+    "company": "ServiceNow",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.sisacast.kr/news/articleView.html?idxno=101241",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.sisacast.kr/news/articleView.html?idxno=101241",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.donga.com/news/Economy/article/all/20261022/134892237/1",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216541",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etoday.co.kr/news/view/2638991",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=209465",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.datasom.co.kr/news/articleView.html?idxno=210462",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.hani.co.kr/arti/economy/it/1283622.html",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.hani.co.kr/arti/economy/it/1283622.html",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102213230840453",
+    "company": "Palantir",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.todayenergy.kr/news/articleView.html?idxno=304518",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42390",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42390",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newspim.com/news/view/20261022000629",
+    "company": "ByteDance",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.seoul.co.kr/news/economy/IT/2026/10/22/20261022500080?wlog_tag3=naver",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.popcornnews.net/news/articleView.html?idxno=136860",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.heraldcorp.com/article/10911084?ref=naver",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20104647?ref=naver",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.yna.co.kr/view/AKR20261022053600017?input=1195m",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=446073",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261022085909",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261022085909",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.pressman.kr/news/articleView.html?idxno=104102",
+    "company": "SK",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.pressman.kr/news/articleView.html?idxno=104102",
+    "company": "KT",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483178",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=02860166645615544&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728698",
+    "company": "Anthropic",
+    "reason": "보류: 도구 활용·보안 사례 제목으로 해당 기업의 개발·출시·운영 행위를 확인하지 못함"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728698",
+    "company": "xAI",
+    "reason": "보류: 도구 활용·보안 사례 제목으로 해당 기업의 개발·출시·운영 행위를 확인하지 못함"
+  },
+  {
+    "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2341477",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=2008794",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42384",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.betanews.net/article/view/beta202610210064",
+    "company": "Zoom",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.hellot.net/news/article.html?no=115702",
+    "company": "씽킹AI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.hellot.net/news/article.html?no=115697",
+    "company": "포티투마루",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323155",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=157158",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261021170509",
+    "company": "이스트소프트",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12090454?ref=naver",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.viva100.com/article/20261021501313",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279350",
+    "company": "포티투마루",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216459",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.finomy.com/news/articleView.html?idxno=264216",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261021135437",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.thepowernews.co.kr/view.php?ud=202610211435481364de3f0aa1be_7",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497252",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=211424",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408535",
+    "company": "이스트소프트",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113751",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20104298?ref=naver",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.hankookilbo.com/news/article/A2026102109430003740?did=NA",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202506",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202506",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202506",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202506",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261021133930",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.dailyt.co.kr/newsView/dlt202610210016",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=45686",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.koreaittimes.com/news/articleView.html?idxno=158395",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.econovill.com/news/articleView.html?idxno=754381",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156336",
+    "company": "이스트소프트",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.itworld.co.kr/article/4238166/ai가-틀려도-책임은-사용자가-메타의-새-약관-ai-오류-책.html",
+    "company": "Meta",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.chosun.com/it-science/ict/2026/10/21/XRHICZB67NEHXDT4JJTWAT3MHQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2120123",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://platum.kr/archives/296722",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.newsdream.kr/news/articleView.html?idxno=120463",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408498",
+    "company": "Zoom",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.itbiznews.com/news/articleView.html?idxno=228509",
+    "company": "SailPoint",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.dailian.co.kr/news/view/1704025/?sc=Naver",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1416918",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.munhwa.com/article/11625050?ref=naver",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.inews24.com/view/2017232",
+    "company": "이스트소프트",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12181493",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=90710",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210001",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=03056966645615216&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "씽킹AI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.cnbizm.com/news/articleView.html?idxno=318689",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.livebiz.today/news/articleView.html?idxno=205778",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.livebiz.today/news/articleView.html?idxno=205778",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.livebiz.today/news/articleView.html?idxno=205778",
+    "company": "Apple",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2120106",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2120106",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2120106",
+    "company": "Meta",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2120106",
+    "company": "Apple",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.imaeil.com/page/view/2026102109554580377",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.chosun.com/economy/money/2026/10/21/2QEMP7U2ORB5VLXE2DPINUXRFQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.news2day.co.kr/article/20261021500091",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=157054",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ajunews.com/view/20261021094610394",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mt.co.kr/tech/2026/10/21/2026102109295354764",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sentv.co.kr/article/view/sentv202610210044",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etnews.com/20261021000056",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.news1.kr/it-science/internet-platform/6326800",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.heraldcorp.com/article/10909469?ref=naver",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.heraldcorp.com/article/10909469?ref=naver",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.heraldcorp.com/article/10909469?ref=naver",
+    "company": "Meta",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mt.co.kr/stock/2026/10/21/2026101916264741354",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20104134?ref=naver",
+    "company": "이스트소프트",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=209982",
+    "company": "이스트소프트",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=02807686645615216&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ziksir.com/news/articleView.html?idxno=150122",
+    "company": "이스트소프트",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=556829",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=556829",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=556829",
+    "company": "Meta",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=556829",
+    "company": "Apple",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ajunews.com/view/20261021090303193",
+    "company": "올마이투어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.etnews.com/20261021000020",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.news2day.co.kr/article/20261021500033",
+    "company": "이스트소프트",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.venturesquare.net/1121590/",
+    "company": "씽킹AI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12090253?ref=naver",
+    "company": "삼성",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12090253?ref=naver",
+    "company": "Anthropic",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20103996?ref=naver",
+    "company": "Salesforce",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://magazine.hankyung.com/business/article/202610138588b",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.etnews.com/20261021000445",
+    "company": "Salesforce",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261021171922",
+    "company": "포티투마루",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216476",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216476",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etnews.com/20261021000290",
+    "company": "코난테크놀로지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676196",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676196",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676196",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408552",
+    "company": "포티투마루",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408552",
+    "company": "마음AI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.hankookilbo.com/news/article/A2026102112260000777?did=NA",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.etnews.com/20261021000369",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.hankyung.com/article/202610215874i",
+    "company": "Salesforce",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://biz.chosun.com/it-science/ict/2026/10/21/DWPXJJ7KLZG7PFIKJVX5OICRUQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610201637295640102957",
+    "company": "업스테이지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dailian.co.kr/news/view/1704036/?sc=Naver",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://kidd.co.kr/news/247797",
+    "company": "Fortinet",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408451",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.news2day.co.kr/article/20261020500371",
+    "company": "업스테이지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.g-enews.com/view.php?ud=2026102018011448310c8c1c064d_1",
+    "company": "Alibaba",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.g-enews.com/view.php?ud=2026102018011448310c8c1c064d_1",
+    "company": "Tencent",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.g-enews.com/view.php?ud=2026102018011448310c8c1c064d_1",
+    "company": "ByteDance",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://sports.khan.co.kr/article/202610202350003?pt=nv",
+    "company": "올마이투어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=313590",
+    "company": "올마이투어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12177910",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.mk.co.kr/article/12177910",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874576",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874576",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874576",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://kr.aving.net/news/articleView.html?idxno=1815808",
+    "company": "씽킹AI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.mt.co.kr/future/2026/10/20/2026102013570585696",
+    "company": "올마이투어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.newsprime.co.kr/news/article.html?no=751730",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624069",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624069",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624069",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624055",
+    "company": "Salesforce",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=211287",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.00news.co.kr/news/articleView.html?idxno=107267",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=200216",
+    "company": "Microsoft",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216455",
+    "company": "카카오",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.it-b.co.kr/news/articleView.html?idxno=90328",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=157029",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://news.mtn.co.kr/article/2026102016562869549",
+    "company": "씽킹AI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://news.tf.co.kr/read/economy/2378587.htm",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261020160607",
+    "company": "Microsoft",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261020152215",
+    "company": "Cisco",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102016330443412",
+    "company": "Cisco",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676128",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676128",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676128",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.popcornnews.net/news/articleView.html?idxno=136607",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=2008220",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201554069030361",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://coinreaders.com/264135",
+    "company": "Intel",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=281492",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=281492",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.newspost.kr/news/articleView.html?idxno=226535",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215221",
+    "company": "Microsoft",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=556399",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.delighti.co.kr/news/articleView.html?idxno=123495",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.metroseoul.co.kr/article/20261020500441",
+    "company": "OpenAI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etnews.com/20261020000335",
+    "company": "삼성",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156299",
+    "company": "Salesforce",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dailian.co.kr/news/view/1703736/?sc=Naver",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=449800",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=449800",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=449800",
+    "company": "Meta",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12090142?ref=naver",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.newskr.kr/news/articleView.html?idxno=107309",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sportsseoul.com/news/read/1642694?ref=naver",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728502",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.edaily.co.kr/News/Read?newsId=04093446645614888&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322925",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322925",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://hbnpress.com/news/view/1065593172506167",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.itbiznews.com/news/articleView.html?idxno=228430",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.public25.com/news/articleView.html?idxno=56843",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.public25.com/news/articleView.html?idxno=56843",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.public25.com/news/articleView.html?idxno=56843",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156298",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sedaily.com/article/20103800?ref=naver",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728485",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728485",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://news.tvchosun.com/site/data/html_dir/2026/10/20/2026102090149.html",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590625857082",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=2008128",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=798690",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.inthenews.co.kr/news/article.html?no=93282",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156292",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156292",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156292",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261020140225",
+    "company": "씽킹AI",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=729555",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=729555",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.itdaily.kr/news/articleView.html?idxno=242321",
+    "company": "Salesforce",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.dailypop.kr/news/articleView.html?idxno=103541",
+    "company": "LG",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=900052",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=90670",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408436",
+    "company": "SailPoint",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714901",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.yna.co.kr/view/AKR20261020073900017?input=1195m",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.eroun.net/news/articleView.html?idxno=92918",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.chosun.com/economy/tech_it/2026/10/20/TOQY5HNONVC63M6L6I47KKZGNI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "company": "Nvidia",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261020103507",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=66083",
+    "company": "올마이투어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=449767",
+    "company": "삼성",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=449767",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.fnnews.com/news/202610200956477926",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.fnnews.com/news/202610200956477926",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.fnnews.com/news/202610200956477926",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.sentv.co.kr/article/view/sentv202610200048",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=445957",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.newsdream.kr/news/articleView.html?idxno=120362",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708383",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.sentv.co.kr/article/view/sentv202610200041",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.sentv.co.kr/article/view/sentv202610200041",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.sentv.co.kr/article/view/sentv202610200041",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.itdaily.kr/news/articleView.html?idxno=242301",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.viva100.com/article/20261020500221",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102009343461382",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "http://www.inews24.com/view/2016774",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.inews24.com/view/2016774",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.inews24.com/view/2016774",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408422",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408422",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408422",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.etoday.co.kr/news/view/2637725",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://kpenews.com/View.aspx?No=4270495",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12090009?ref=naver",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12090009?ref=naver",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.dt.co.kr/article/12090009?ref=naver",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215180",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215180",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215180",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279155",
+    "company": "KT",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.fnnews.com/news/202610200836435191",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://kpenews.com/View.aspx?No=4270424",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1104417",
+    "company": "올마이투어",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "http://www.datanews.co.kr/news/article.html?no=147005",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.datanews.co.kr/news/article.html?no=147005",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.datanews.co.kr/news/article.html?no=147005",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.econovill.com/news/articleView.html?idxno=754168",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.econovill.com/news/articleView.html?idxno=754168",
+    "company": "Google",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.econovill.com/news/articleView.html?idxno=754168",
+    "company": "Amazon",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708253",
+    "company": "OpenAI",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708253",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440031",
+    "company": "Amazon",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440031",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.news1.kr/it-science/security-hacking/6324902",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.newswatch.kr/news/articleView.html?idxno=81562",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.tokenpost.kr/news/ai/424511",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.mt.co.kr/opinion/2026/10/20/2026101909450433356",
+    "company": "Anthropic",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624018",
+    "company": "Cisco",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://byline.network/?p=9004111222624059",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261020161900",
+    "company": "Cisco",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함"
+  },
+  {
+    "link": "https://www.joongang.co.kr/article/25471286",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ddaily.co.kr/page/view/2026102016145923914",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=145915",
+    "company": "Google",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://zdnet.co.kr/view/?no=20261020140912",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708444",
+    "company": "Meta",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.donga.com/news/It/article/all/20261020/134873224/2",
+    "company": "네이버",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276863&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+    "company": "Tencent",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.thelec.kr/news/articleView.html?idxno=63867",
+    "company": "Apple",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.ytn.co.kr/_ln/0102_202610201001393074",
+    "company": "SK",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156265",
+    "company": "업스테이지",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.etoday.co.kr/news/view/2637695",
+    "company": "카카오",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ajunews.com/view/20261018175114180",
+    "company": "네이버",
+    "reason": "보류: 제목에서 에이전트·비서 관련성을 직접 확인하지 못함(일반 AI 사업·비에이전트 기사 포함)"
+  },
+  {
+    "link": "https://www.ajunews.com/view/20261018175114180",
+    "company": "Nvidia",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259941",
+    "company": "KT",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  },
+  {
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172347",
+    "company": "Meta",
+    "reason": "보류: 해당 기업·사전상 제품명이 제목에 없고 설명 매칭만 있어 제목 기준으로 확인하지 못함"
+  }
+]
