@@ -10,6 +10,7 @@
     "agent_trends": "scripts/run.mjs"
   },
   "scripts": {
-    "start": "node scripts/run.mjs"
+    "start": "node scripts/run.mjs",
+    "mcp": "node scripts/run.mjs mcp"
   }
 }
