@@ -37,11 +37,51 @@ export const COMPANIES: Record<string, string[]> = {
   "xAI": ["xAI", "그록", "Grok"],
   "Cohere": ["코히어", "Cohere"],
   "Perplexity": ["퍼플렉시티", "Perplexity"],
-
+  // 2026-10-20~26 수집 기사 제목에서 개발·출시·운영을 확인한 기업.
+  "제논": ["제논"],
+  "한글과컴퓨터": ["한글과컴퓨터", "한컴"],
+  "허드슨에이아이": ["허드슨에이아이"],
+  "Zoho": ["조호", "Zoho"],
+  "패티": ["패티", "미르코드"],
+  "티맥스티베로": ["티맥스티베로"],
+  "마에스트로포렌식": ["마에스트로포렌식", "마에스트로 포렌식"],
+  "윈웨이": ["윈웨이"],
+  "넥스톰": ["넥스톰"],
+  "Cloudflare": ["클라우드플레어", "Cloudflare"],
+  "Intel": ["인텔", "Intel"],
+  "나무에이엑스": ["나무에이엑스"],
+  "인핸스": ["인핸스"],
+  "카페24": ["카페24", "Cafe24"],
+  "당근": ["당근", "당근마켓"],
+  "트웰브랩스": ["트웰브랩스", "Twelve Labs"],
+  "Coinbase": ["코인베이스", "Coinbase"],
+  "씽킹AI": ["씽킹AI"],
+  "Cisco": ["시스코", "Cisco", "스플렁크", "Splunk"],
+  "이스트소프트": ["이스트소프트"],
+  "OutSystems": ["아웃시스템즈", "OutSystems"],
+  "Zoom": ["줌", "Zoom"],
+  "스렛북": ["스렛북", "ThreatBook"],
+  "SailPoint": ["세일포인트", "SailPoint"],
+  "비젠트로": ["비젠트로"],
+  "플래티어": ["플래티어"],
+  "원라인에이아이": ["원라인에이아이"],
+  "MiniMax": ["미니맥스", "MiniMax"],
+  "Brave": ["브레이브", "Brave"],
+  "안랩": ["안랩", "AhnLab"],
+  "Fortinet": ["포티넷", "Fortinet"],
+  "올마이투어": ["올마이투어"],
+  "삼보컴퓨터": ["삼보컴퓨터"],
 };
 
 // 동음이의어가 있는 짧은 이름은 기사에 제품·사업 문맥이 있을 때만 인정한다.
-const CONTEXTS: Record<string, RegExp> = {};
+const CONTEXTS: Record<string, RegExp> = {
+  "제논": /젠가드|제논[^.!?]*(?:AI|인공지능|에이전트|보안)/iu,
+  "패티": /미르코드/iu,
+  "당근": /당근마켓|당근[^.!?]*(?:AI|에이전트|중고거래)/iu,
+  Zoom: /zoom[^.!?]*(?:AI|agent|meeting|video)|줌[^.!?]*(?:AI|에이전트|회의|비디오|컨텍스트)/iu,
+  Brave: /브레이브[^.!?]*(?:BAT|보상|광고|브라우저|에이전트)|brave[^.!?]*(?:browser|agent|BAT)/iu,
+  MiniMax: /미니맥스[^!?]*(?:M\d|플래시|신모델|모델[^!?]*(?:공개|출시))|MiniMax[^!?]*(?:M\d|Flash|launch|release)/iu,
+};
 
 export const COMPANY_DICTIONARY_VERSION = createHash("sha256").update(JSON.stringify({
   companies: COMPANIES, contexts: Object.entries(CONTEXTS).map(([k, v]) => [k, v.source, v.flags]), matcher: 2,
